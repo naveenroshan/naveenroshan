@@ -1,5 +1,5 @@
 - 👋 Hi, I’m naveenroshan
-- 👀 I’m interested in Frontend, Backend, DB, BigData, Data Science, IOT, Electronics...
+- 👀 I’m interested in Frontend, API Development, DB, BigData, Data Science, IOT, Electronics...
 - 🌱 I’m currently learning Frontend
 - 📫 How to reach me naveenroshan93@gmail.com
 
