@@ -1,9 +1,9 @@
 - 👋 Hi, I’m naveenroshan
-- 👀 I’m interested in Frontend, API Development, DB, BigData, Data Science, IOT, Electronics...
-- 🌱 I’m currently learning Frontend
+- 👀 I’m interested in Frontend, ServerSide, DB, BigData, Data Science, IOT, Electronics.
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me naveenroshan93@gmail.com
 
-<!---
-naveenroshan/naveenroshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Development Knowledge : 
+- FrontEnd : HTML, CSS, JS, VUEJS, REACTJS
+- ServerSide : NODEJS, ExpressJS, Spring
+- DB : MYSQL, MongoDB, Tableau 
