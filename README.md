@@ -4,6 +4,7 @@
 - 📫 How to reach me naveenroshan93@gmail.com
 
 # Development Knowledge : 
-- FrontEnd : HTML, CSS, JS, VUEJS, REACTJS
+- FrontEnd : HTML, CSS, JS, VUEJS, REACTJS, SVG
 - ServerSide : NODEJS, ExpressJS, Spring
 - DB : MYSQL, MongoDB, Tableau 
+- DevOps : Docker, Jenkins, Kubernetes, Git
