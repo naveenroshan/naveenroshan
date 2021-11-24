@@ -1,7 +1,22 @@
-# Git commends:
-- git init
-- git add .
-- git status
-- git commit -m "comments"
-- git remote add origin "repo url"
-- git push -u origin master
+Git commends:
+git status
+git pull
+git push
+git add .
+git commit -m ""
+git log
+git diff
+git branch branch name
+git reset 
+git merge
+git checkout branch name
+git config
+git branch -d
+git remote -v
+git remote add origin "remote url"
+git push -U origin master
+git stash
+git fetch
+git reset --hard
+git push -f
+git revert head
